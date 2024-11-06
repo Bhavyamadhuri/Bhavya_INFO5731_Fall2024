@@ -1,11 +1,101 @@
 document_id,clean_text,sentiment
-1,The bra provides excellent support and is very comfortable.,positive
-2,"The straps dig into my shoulders, causing discomfort.",negative
-3,"It fits as expected, but nothing remarkable about the design.",neutral
-4,I love the soft fabric and how perfectly it fits!,positive
-5,"The lace design is nice, but the underwire causes irritation.",negative
-6,"Good quality material, and it?s comfortable for daily wear.",positive
-7,"Average bra, comfortable but does not provide much support.",neutral
-8,The seamless design is perfect for wearing under tight clothing.,positive
-9,The underwire makes it painful after long hours.,negative
-10,"Looks stylish, but I wish it had more padding.",neutral
+1,The bra is extremely comfortable and fits perfectly.,positive
+2,"The straps constantly slip off, and the underwire hurts.",negative
+3,"The design is nice, but it?s not very supportive.",neutral
+4,I absolutely love this bra! It?s perfect for everyday wear.,positive
+5,The material feels cheap and uncomfortable.,negative
+6,"It?s an average bra, works fine but doesn?t blow me away.",neutral
+7,Great quality and very comfortable for daily use.,positive
+8,"It fits well, but the fabric is scratchy.",negative
+9,"The bra is soft and the fit is good, though it?s not great.",neutral
+10,"The fabric is so soft, and it doesn?t dig into my skin.",positive
+11,This bra is the best I?ve ever owned!,positive
+12,The fit is too loose; it doesn?t provide enough support.,negative
+13,"The color is beautiful, but the stitching is coming undone.",neutral
+14,I love the way this bra feels; it?s like a second skin!,positive
+15,It gives me a weird shape under clothes.,negative
+16,"Average quality, but the price is reasonable.",neutral
+17,Comfortable enough for all-day wear.,positive
+18,The underwire digs into my sides after a few hours.,negative
+19,This bra is decent but not my favorite.,neutral
+20,It?s perfect for lounging at home.,positive
+21,The fabric has started to wear out after a month.,negative
+22,I like how it fits under my clothes without showing lines.,positive
+23,The cups are too small; I feel squeezed.,negative
+24,This is the most comfortable bra I?ve ever tried.,positive
+25,I wish it came in more colors; I love the style!,neutral
+26,The straps are too wide for my frame.,negative
+27,"Excellent support, feels very secure.",positive
+28,"It rides up in the back, which is annoying.",negative
+29,"The lace detailing is pretty, but not practical.",neutral
+30,This bra has changed my life; I can?t believe I waited so long to try it!,positive
+31,The material is scratchy and uncomfortable.,negative
+32,Good for everyday use but not for sports.,neutral
+33,Love the back closure; it makes it easy to put on.,positive
+34,"It falls apart in the wash, very disappointed.",negative
+35,I appreciate the variety of sizes available.,positive
+36,It doesn?t stay in place and keeps sliding down.,negative
+37,Comfortable enough for a long day at work.,positive
+38,"The design looks cheap, not worth the price.",negative
+39,"I like the subtle colors, perfect for everyday use.",positive
+40,"This bra feels too tight, even in my usual size.",negative
+41,"It?s fine, but I?ve had better.",neutral
+42,I love the padding; it gives a nice shape.,positive
+43,The straps are too long and need constant adjusting.,negative
+44,This is a great option for someone who prefers wireless bras.,positive
+45,The fabric pilled after a few washes.,negative
+46,"It?s okay, but I was expecting more based on the reviews.",neutral
+47,This bra feels like a hug!,positive
+48,It makes me feel self-conscious; I can?t wear it outside.,negative
+49,"Nice fit, but the color options are limited.",neutral
+50,The comfort level is off the charts!,positive
+51,"This bra doesn?t provide any lift, which I need.",negative
+52,I?m impressed with the quality for the price.,positive
+53,The underwire popped out after a few uses.,negative
+54,I wish the straps were more decorative.,neutral
+55,"Perfect for casual outings, highly recommend.",positive
+56,The sizing is inconsistent; I had to return it.,negative
+57,"Good overall, but could use a little more support.",neutral
+58,This bra is so stylish and comfortable!,positive
+59,I?m not happy with how it fits; it?s too tight.,negative
+60,"It serves its purpose, but nothing special.",neutral
+61,Love this for its comfort and flexibility!,positive
+62,"The color faded after washing, very disappointing.",negative
+63,I like the seamless design; it looks great under clothing.,positive
+64,The underwire is too rigid and uncomfortable.,negative
+65,The fit is true to size and flattering.,positive
+66,I expected more support based on the description.,negative
+67,This is my go-to bra for everyday wear.,positive
+68,"It?s very bulky, doesn?t work well under tight tops.",negative
+69,"The fit is good, but I wish it had more padding.",neutral
+70,I feel so confident wearing this bra!,positive
+71,It?s not as breathable as I hoped; I get hot wearing it.,negative
+72,"Great for lounging, but not for workouts.",neutral
+73,I love the vintage style; it makes me feel classy.,positive
+74,It pinches in awkward places.,negative
+75,The adjustable straps are a nice touch.,positive
+76,"It lost its shape after washing, very disappointed.",negative
+77,"Not the best fit, but it?s wearable.",neutral
+78,I?m thrilled with the comfort level of this bra.,positive
+79,The fabric is too thin; it doesn?t provide enough coverage.,negative
+80,"It?s a decent bra, but I wouldn?t buy it again.",neutral
+81,This is a lifesaver for everyday wear!,positive
+82,The bra is very stiff and hard to move in.,negative
+83,"It?s fine, but I prefer other styles more.",neutral
+84,The soft material feels luxurious against my skin.,positive
+85,I wish it had a little more lift.,negative
+86,The design is functional and cute!,positive
+87,I don?t like the feel of the material; it?s too rough.,negative
+88,The fit is inconsistent with other brands I?ve tried.,neutral
+89,This bra has excellent support for larger sizes.,positive
+90,"It?s uncomfortable, especially during hot weather.",negative
+91,"The fit is okay, but it?s not very flattering.",neutral
+92,It?s the perfect blend of style and comfort!,positive
+93,The straps are not adjustable enough for my liking.,negative
+94,I appreciate how lightweight this bra is.,positive
+95,It stretches out too quickly; I had to replace it.,negative
+96,"This is a basic bra, nothing too special about it.",neutral
+97,I can wear it all day without discomfort.,positive
+98,The sizing runs small; I had to exchange it for a bigger size.,negative
+99,It?s an average option; not my first choice.,neutral
+100,I?m buying another one because I love it so much!,positive
